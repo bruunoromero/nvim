@@ -13,7 +13,6 @@ return {
   { import = "astrocommunity.pack.gleam" },
   { import = "astrocommunity.pack.kotlin" },
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.swift" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.typescript" },
